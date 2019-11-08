@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <question type="multichoice">
 	<name>
-		<text>Demo question à choix multiples</text>
+		<text>test</text>
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
