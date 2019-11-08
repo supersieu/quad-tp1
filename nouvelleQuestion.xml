@@ -1,0 +1,11 @@
+<question type="multichoice|truefalse|shortanswer|matching|cloze|essay|numerical|description">
+     <name>
+         <text>Name of question</text>
+     </name>
+     <questiontext format="html">
+         <text>What is the answer to this question?</text>
+     </questiontext>
+     .
+     .
+     .
+</question>
